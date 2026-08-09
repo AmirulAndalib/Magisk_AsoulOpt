@@ -32,9 +32,11 @@ com.Flanne.MinutesTillDawn.roguelike.shooting.gp
 com.GameCoaster.ProtectDungeon
 com.GentleManiac.HorizonWalker
 com.GlobalSoFunny.Sausage
+com.HoYoverse.Nap
 com.HoYoverse.hkrpgoversea
 com.LanPiaoPiao.PlantsVsZombiesRH
 com.MOBGames.PoppyMobileChap1
+com.PanikArcade.CloverPit
 com.ProjectMoon.LimbusCompany
 com.RoamingStar.BlueArchive
 com.Roboatino.ShogunShowdown
@@ -98,6 +100,7 @@ com.ea.game.pvz2_row
 com.ea.games.r3
 com.epicgames.fortnite
 com.fantablade.icey
+com.feimo.astralpartyjpn
 com.gaijingames.wtm
 com.gameloft.android.ANMP.GloftA9HM
 com.garena.game.codm
@@ -134,6 +137,7 @@ com.jacksparrow.jpmajiang
 com.je.skgame
 com.jumpw.mobile300
 com.kiloo.subwaysurf.gw
+com.kingnet.gundam
 com.komoe.kmumamusumegp
 com.krafton.dndm
 com.kurogame.aki
@@ -162,6 +166,7 @@ com.miraclegames.farlight84
 com.mobile.legends
 com.modx.daluandou
 com.mojang.minecraftpe
+com.morizero.milthm
 com.movtery.zalithlauncher
 com.nanostudios.games.twenty.minutes
 com.neowizgames.game.browndust2
@@ -169,6 +174,7 @@ com.netease.AVALON
 com.netease.EVE
 com.netease.aceracer
 com.netease.allstar
+com.netease.cfxf
 com.netease.dfjs
 com.netease.dunkcd
 com.netease.dwrg
@@ -203,6 +209,7 @@ com.netease.wotb
 com.netease.wyclx
 com.netease.x19
 com.netease.yhtj
+com.netease.ywzh
 com.netease.yyslscn
 com.netease.yzs
 com.nexon.bluearchive
@@ -228,6 +235,7 @@ com.pwrd.huanta
 com.pwrd.p5x
 com.pwrd.persona5x.laohu
 com.r2games.myhero.bilibili
+com.rawfury.kingdom2crowns
 com.rayark.cytus2
 com.rayark.implosion
 com.rekoo.pubgm
@@ -263,6 +271,7 @@ com.tencent.nfsonline
 com.tencent.ngr
 com.tencent.nikke
 com.tencent.nrc
+com.tencent.rmcn
 com.tencent.tmgp.WePop
 com.tencent.tmgp.bh3
 com.tencent.tmgp.cf
@@ -317,6 +326,7 @@ com.zy.wqmt.cn
 gplay.punishing.grayraven
 jp.co.bandainamcoent.BNEI0242
 jp.co.craftegg.band
+jp.co.cygames.ShadowverseWorldsBeyond
 jp.co.cygames.princessconnectredive
 jp.konami.masterduel
 jp.konami.pesam
